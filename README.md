@@ -18,8 +18,7 @@ Follow these steps to set up and run this project on your local machine.
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/django-chat-app.git
-cd django-chat-app
+https://github.com/AbRehmansaif/DjangoChannelsApp.git
 ```
 
 ### **2️⃣ Create a Virtual Environment**
@@ -148,6 +147,6 @@ This project is licensed under the **MIT License**.
 
 ## 💬 **Contact**
 For any queries, feel free to reach out:  
-📧 Email: your-email@example.com  
+📧 Email: abdulrehmanarain713@gmail.com  
 🔗 GitHub: [yourusername](https://github.com/yourusername)
 
